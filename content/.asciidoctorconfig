@@ -1,0 +1,6 @@
+// This file is used by IDEs for local previews and respective rendering.
+// (e.g., IntelliJ, cf. https://intellij-asciidoc-plugin.ahus1.de/docs/users-guide/features/advanced/asciidoctorconfig-file.html)
+// Use static images
+:imagesdir: {asciidoctorconfigdir}/../static/images
+// Use fonts for call-outs
+:icons: fonts
